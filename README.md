@@ -35,24 +35,6 @@ Gradle code
 compile 'xyz.itbang:gspider:3.1.1'
 ```
 
-## Something to say 吹点牛
-If you can not read chinese，nothing important，just to have a cup of tea。someday，I'll say it again in English。
-
-因故需要爬取点东西，考察了 Java 领域的几个爬虫工具或框架。不甚满意。
-
-nutch，一个伟大的先驱，诞生了一批金光闪闪的小弟，自己却似乎没落了，比着官方文档，也跑不起来，文档很不全，且多年失修。
-
-WebMagic，那哥们说要搞成 Java 界的教科书式爬虫，比肩 Scrapy ，良好的文档，受益匪浅。不过，我觉着某些设计太复杂了，封装太多就容易不太灵活，做的太多，就容易跨越界限。
-
-拜过两位大神之后，想，还是自己搞一个吧。于是 GSpider 诞生了。
-
-示例大家已经看过了，市面上恐怕没有更简单易用强大的爬虫了吧。托Groovy的福，闭包，DSL，GPath等，让一切变得简单强大。
-
-整个项目耗时大概两周，了解行业知识以及写代码，整个项目大概200多行（不算注释），实现了两位前辈的主要功能，功能上更像 nutch 一点。
-
-真搞出来还有点小兴奋，想整点82年的拉菲压压，也没有找到，谁有？送点？
-
-吹完牛了，该谦虚谨慎地干活了。
-
-欢迎大家点赞，fork，欢迎意见建议，我的微信 jackyanq，靠这个赚了钱的，欢迎打赏。
+## And ...
+欢迎点赞，fork，欢迎意见建议，靠这个赚了钱的，欢迎打赏。
 
